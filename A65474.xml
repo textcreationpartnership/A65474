@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A demonstration in brief, of what I have noted in a book, intituled, a dialogue between a Christian and a Quaker Wherein is mainifest that Thomas Hickes and his confederates  speak not by the Spirit of God, neither is he ruled, touching the mystery of God in faith, by Holy Scripture, but on the contrary. Thom. Hickes, what thou hast to say in answer (charge me only) and no other person.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65474</idno>
+            <idno type="STC">Wing W1387</idno>
+            <idno type="STC">ESTC R217303</idno>
+            <idno type="EEBO-CITATION">99828985</idno>
+            <idno type="PROQUEST">99828985</idno>
+            <idno type="VID">33420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A demonstration in brief, of what I have noted in a book, intituled, a dialogue between a Christian and a Quaker Wherein is mainifest that Thomas Hickes and his confederates  speak not by the Spirit of God, neither is he ruled, touching the mystery of God in faith, by Holy Scripture, but on the contrary. Thom. Hickes, what thou hast to say in answer (charge me only) and no other person.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end of work: by me Robert West, about the 60th year of my age, to be printed in the year 1673.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hicks, Thomas, 17th cent. --  Dialogue between a Christian and a Quaker.</term>
+               <term>Bible --  Criticism, interpretation, etc. --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33420:1" rendition="simple:additions"/>
+            <p>A Demonſtration In brief, Of what I have noted in a Book, Intituled, A DIALOGUE Between a <hi>CHRISTIAN</hi> and <hi>Q<g ref="char:V">Ʋ</g>AKER.</hi>
+            </p>
+            <p>Wherein is manifeſt That <hi>Thomas Hickes</hi> and his Confederates ſpeak not by the Spirit of God, neither is he ruled, touch<g ref="char:EOLhyphen"/>ing the Myſtery of God in Faith, by Holy Scrip<g ref="char:EOLhyphen"/>ture, but on the contrary.</p>
+            <p>
+               <hi>Thom. Hickes,</hi> what thou haſt to ſay in Anſwer (charge me only) and no other Perſon.</p>
+            <q>
+               <p>Hold not thy peace, and be not ſtill, O God, for lo thine enemies make a tumult, and they that hate thee have lifted up the head, they have taken crafty Counſel againſt thy people, &amp; conſulted againſt thy hidden ones. Behold, ſaith the Lord, they ſhall ſurely gather together, but not by me: whoſoever ſhall gather together againſt thee, ſhall fall for thy ſake, and every tongue that ſhall ariſe againſt thee in judgment, thou ſhalt condemn.</p>
+               <bibl>
+                  <hi>Pſal. 83.1, 2, 3.</hi> Eſai. 54.15.</bibl>
+            </q>
+            <p>Printed in the Year 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33420:2"/>
+            <pb n="3" facs="tcp:33420:2"/>
+            <p>IT's written, Brethren, I have in a figure transfer<g ref="char:EOLhyphen"/>red to my ſelf, and to <hi>Apollo</hi> for your ſakes that ye might learn in us, not to think of man above that which is written, 1 <hi>Cor.</hi> 4.6. the ſame Apoſtle for confirmation of the Myſtery of God, which he taught, brought the Holy Scriptures for Teſtimony thereof, <hi>Rom.</hi> 10.8. and ſayeth that he witneſs no o<g ref="char:EOLhyphen"/>ther thing than thoſe which the Prophets and <hi>Moſes</hi> did ſay ſhould come, <hi>Act.</hi> 26.22. Now, <hi>the Spirits of the Prophets are ſubject to the Prophets.</hi> Now the Spi<g ref="char:EOLhyphen"/>rits of the Prophets is mans's Spirit, that's to be ſubject to the Prophets, to wit, Holy Scriptures, but the Spirit of God no Scripture ſayeth is to be ſubject to, or to be tryed by the Holy Scripture, <hi>&amp;c.</hi> It's no<g ref="char:EOLhyphen"/>ted in the 20th <hi>Article of the Church of England,</hi> that it's not lawful for the Church to ordain any thing that's contrary to God's word written, neither may it ſo expound one place of Scripture that it be repug<g ref="char:EOLhyphen"/>nant to another; this ſaying is true, <hi>&amp;c.</hi> Having ſpo<g ref="char:EOLhyphen"/>ken in brief of the Authority of the Holy Scripture, I ſhall from the manifeſtation of God's Spirit, and ac<g ref="char:EOLhyphen"/>cording to the Holy Scriptures demonſtrate <hi>Tho. Hickes</hi> his folly, and damnable Hereſie in his aforeſaid Book.
+<pb n="4" facs="tcp:33420:3"/>He ſayeth in <hi>Page</hi> 5. there is a Pamplet lately publiſh<g ref="char:EOLhyphen"/>ed by <hi>Robert West,</hi> Intituled, <hi>Damnable Hereſie diſcover<g ref="char:EOLhyphen"/>ed:</hi> That there is ſuch a Book publiſhed by me, it's true; but for his ſaying in that <hi>Page</hi> 5. where he ar<g ref="char:EOLhyphen"/>raigneth and condemneth as guilty of damnable Here<g ref="char:EOLhyphen"/>fie (<hi>viz.</hi>) the denying to worſhip the meaſure of light in every man, that's falſe, as by my Book may appear. It was for his denying the light within, which convin<g ref="char:EOLhyphen"/>ces the World of ſin to be the Lord, <hi>&amp;c.</hi> He ſayeth in his Book <hi>Pag.</hi> 5. many <hi>Quakers</hi> that read this particu<g ref="char:EOLhyphen"/>lar in that Book, condemns it, and cenſures the perſon that aſſerted it. Mark! Can any <hi>Quaker</hi> read this particular in that Book (to wit) <hi>meaſure of Light,</hi> which is not in that Book, or cenſured me for it, as may appear by that Book. Again, he ſayeth in <hi>Page</hi> 5. of his Book, Foraſmuch as he affirms, this light communicated unto <hi>Adam,</hi> was not only God's gift to him, but alſo the fountain whence all that light proceeds, which is imparted or communicated unto the Creature; but dareft thou ſtand by this aſ<g ref="char:EOLhyphen"/>ſertion, ſayeth he. Mark, I never affirmed ſuch a thing. It is his Aſſertion, and not mine; for I have better learned of the Lord, and do know him in whom is hidden all the Treaſure of Wiſdom and Know<g ref="char:EOLhyphen"/>ledge, and from him in me have I received of his full<g ref="char:EOLhyphen"/>neſs, to him be glory for ever; and not from old <hi>A<g ref="char:EOLhyphen"/>dam,</hi> but from the ſecond <hi>Adam,</hi> who is a quickening Spirit. <hi>Tho. Hickes</hi> ſayeth in his Book <hi>Page</hi> 53. He that ſhall give a falſe relation of another mans Aſſer<g ref="char:EOLhyphen"/>tion, ſuch a man is falſe and deceitful: See by what he ſayeth in his own Book, is not he ſuch a man, that hath in one <hi>Page</hi> of his Book three times com<g ref="char:EOLhyphen"/>mitted
+<pb n="5" facs="tcp:33420:3"/>that folly, <hi>&amp;c.</hi> In <hi>Page</hi> 5. and 6. his Book, he ſayeth, Is this Chriſt within, God or a Creature? If God, then its the ſame with what was ſaid before; if a Creature then it's no Hereſie, much leſs damna<g ref="char:EOLhyphen"/>ble Hereſie, to affirm, that they who worſhip this meaſure of light in every man, are Idolaters; foraſ<g ref="char:EOLhyphen"/>much as they worſhip a Creature, <hi>&amp;c.</hi> Here he ſay<g ref="char:EOLhyphen"/>eth, the light in every man is a Creature. Mark, Is not this his ſaying, his ſolly,<hi>&amp;c.</hi> Is a thing ſo, be<g ref="char:EOLhyphen"/>cauſe a man ſayeth ſo? Nay, we are not to think of men above what is written (to wit) Holy Scripture: if ſo, where's any Holy Scripture, that ſayeth, that the light in every man is a Creature. He ſayeth in his Book <hi>Page</hi> 65. ſpeaking of the light within, it's proved, ſaith he, that it ſelf is but a Creature, <hi>&amp;c.</hi> Is not this privily to bring in damnable Hereſie (to wit) firſt, to ſay the light in every man is a Creature, and then after 50 Pages to ſay, that it's proved, when there is no Holy Scripture brought, nor ſound Reaſon for proof, but his own ſaying, <hi>&amp;c.</hi> may not every falſe perſon deceive a man of what he hath, if his ſaying may be taken for proof without farther evidence; for a man may ſay and ſwear falſly, as the people did in the dayes of old, <hi>Jer.</hi> 5.2. they ſwore then, <hi>that they that were no Gods lived,</hi> ver. 7, And now <hi>Tho. Hickes</hi> ſay<g ref="char:EOLhyphen"/>eth, that the light in every man is a Creature: Is this your Champion, O ye Baptiſt People, that ye boaſt ſo much of, ſaying his Book can never be anſwered: ſurely the pride of <hi>Jordan</hi> will be ſpoiled, <hi>Zech.</hi> 11.3. in a Diſpute with me before many Witneſſes, he affirmed that the light in every man was man's ſpirit, and that God breathed it into <hi>Adam,</hi> and that it did convince them of fin, but as then he brought no Holy Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="6" facs="tcp:33420:4"/>for confirmation of his affirmation; even ſo now, he brings no Holy Scripture to witneſs it, but his own ſaying, nor can he, as by my Book as before is noted, may appear: And yet he would have people believe, that the Holy Scripture is his Rule in Faith and Pra<g ref="char:EOLhyphen"/>ctice, <hi>&amp;c.</hi> Know all then, that I do own the Holy Scriptures, as before is noted, and by them, through the manifeſtation of God's Spirit do know, that <hi>Tho. Hickes</hi> is not ruled touching the Myſtery of God in Faith by them, but ſets up his own ſayings above them to oppoſe the Holy light in man, to which the Scrip<g ref="char:EOLhyphen"/>ture gives Teſtimony unto, as may appear by what fol<g ref="char:EOLhyphen"/>loweth, for the help of the weak underſtanding.
+<list>
+                  <item>Firſt, I ſhall bring the Holy Scriptures, which teſtifieth what God is.</item>
+                  <item>Secondly, where he is. And</item>
+                  <item>thirdly, where that which may be known of God was and is manifeſted, to the end <hi>Tho. Hickes</hi> his ſayings may be tried, whether they be according to the Holy Scrip<g ref="char:EOLhyphen"/>tures, yea, or nay. And
+<list>
+                        <item>firſt to the firſt, <hi>That God is Light.</hi> It's written, <hi>This is the Meſſage,</hi> ſayeth John, <hi>that we have heard of him and declare unto you, that God is Light, and that in him there is no darkneſs at all,</hi> 1 John 1.5. Chriſt ſayeth,<hi>I and my Father are one:</hi> and ſayeth Chriſt, <hi>I am the Light of the World,</hi> John S. 12. <hi>That was the true Light, which ligheth every man that cometh into the World,</hi> ſaith John, <hi>John</hi> 1.9, 15. <hi>and was before me,</hi> ſayeth he: To this agreeth the Teſtimony of <hi>David,</hi> who ſayeth, <hi>The Lord is my Light and my Salvation,</hi> Pſal. 27. So much in brief, touching what God and Chriſt is, <hi>&amp;c.</hi>
+                        </item>
+                        <item>Secondly, <hi>Where he is,</hi> ſayeth <hi>David, If I go up into Heaven thou art there; if I make my Bed in Hell thou art there,</hi> Pſal. 139. And <hi>Solomon</hi> his Son ſayeth, <hi>For thine uncor<g ref="char:EOLhyphen"/>ruptibl
+<pb n="7" facs="tcp:33420:4"/>Spirit is in all things,</hi> Wiſd. 13.1. <hi>Sayeth the Lord, do not fill Heaven and Earth:</hi> By common conſent this manner of S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ech is, that he doth fill Heaven and Earth; ſayeth St. <hi>Paul</hi> ſpeaking of the Lord, <hi>above all, through all, and in you all.</hi>
+                        </item>
+                        <item>Thirdly, The Holy Scripture teſtifieth touching this Infinite and Incomprehenſible God, <hi>That that which may be known of God,</hi> ſpeaking of them that had not the Law, <hi>is manifeſt in them,</hi> Rom. 1.19. And Chriſt ſayeth. <hi>The Kingdom of Heaven is within you,</hi> Luke 17.21.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Queſtion. <hi>Is the Lord in <g ref="char:V">Ʋ</g>nbelievers and Idolaters?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Yea: If he was not in Unbelievers be<g ref="char:EOLhyphen"/>fore they do believe, how then could he be the Au<g ref="char:EOLhyphen"/>thor and finiſher of their Faith: It's written, <hi>He is the Author and finiſher of his Peoples Faith,</hi> Heb. 12.2. That he was in Idolaters, the Lord himſelf teſtifieth; <hi>When Iſrael was ſacrificing to Balaam and burning in<g ref="char:EOLhyphen"/>cenſe unto graven Images, at that time, ſaith the Lord, I am the Holy One, in the midſt of thee,</hi> Hoſ. 11.9. The Church of <hi>England</hi> conſeſſeth, and I wiſh they knew what they did ſay, <hi>That Heaven and Earth is full of the Majeſty of thy Glory.</hi>
+            </p>
+            <p>Having produced ſo many Evidences touching what God is, and where he is, hear what <hi>Tho. Hickes</hi> ſayeth in his Book <hi>Page</hi> 3. by way of Anſwer to a Queſtion touching the holy Light in man, and the great God of Heaven and Earth, and then chooſe whom you will believe; whether you will believe the Teſtimony of the Lord and his holy Prophets, which before is no<g ref="char:EOLhyphen"/>ted, or the Teſtimony of <hi>Tho. Hickes,</hi> which follow<g ref="char:EOLhyphen"/>ed, as it it's noted in his Book <hi>Page</hi> 3. ſaith he, <hi>But if thow ſayeſt this Light in every man in Christ and God,
+<pb n="8" facs="tcp:33420:5"/>I do not only deny it,</hi> ſayeth he, <hi>but charge it with Blaſ<g ref="char:EOLhyphen"/>phemy,</hi> &amp;c. Mark, doth he not in this particular charge the Faith of Gods Elect with Blaſphemy, and the Confeſſion of the Church of <hi>England</hi> alſo. No Holy Scripture ſayeth as he doth, but on the contrary, <hi>&amp;c.</hi> Therefore I conclude that <hi>Tho. Hickes</hi> and his Confe<g ref="char:EOLhyphen"/>derates are not ruled in Faith nor Words by Holy Scripture, but in pretence, <hi>&amp;c.</hi> It it is written in old Tranſlation, <hi>Eſai.</hi> 8. <hi>To the Law and to the Testimony, if they ſpeak not after this meaning, it's becauſe they are not of the Morning-light, if not of the morning-light, know whoſe Children ye are:</hi> the word <hi>(no light in them)</hi> is not in the old Tranſlation to be read; for as it's before noted, the uncorruptible Spirit, who is Light in all things, and <hi>the manifeſtation of the Spirit is given unto every one to profit withal, &amp;c.</hi> 1 Corinth. 12.7.</p>
+            <p>Queſt. <hi>Is Christ in Reprobates?</hi> It's written, <hi>Know you not your own ſelves, how that Jeſus Chriſt is in you, except ye are Reprobates.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It's written, <hi>If our Goſpel be hid, it's hid in them that be loſt; whom the God of this World hath blin<g ref="char:EOLhyphen"/>ded their minds, leſt the Light of the Glorious Goſpel of Chriſt, who is the Image of God ſhould ſhine unto them,</hi> 2 Cor. 4.4. Again, it's written, <hi>I am he, which was dead, and am alive,</hi> ſaith Chriſt, <hi>which tryeth the Hearts and the Reins, and that the Churches ſhall know,</hi> Rev. 2. Which words implies, that the Churches then were without the knowledge of Chriſt in them, as the Baptiſt Churches now are, which ſtate is not approved of, or Reprobate. The Lord give them an underſtanding that they may know it, for they have need, as the Churches then had that were
+<pb n="9" facs="tcp:33420:5"/>fallen, <hi>to repent, and do the firſt work,</hi> Rev. 2.5. The which if they do, they ſhall know the Teſtimony which God gives of himſelf, that <hi>he which believes hath the witneſs in himſelf,</hi> that's the Faith, which is the evidence of things not ſeen (to wit) the Lord, who is the Light in every man, whom man hath deſpiſed, <hi>Iſai.</hi> 53.3. and have abhorred, and the evil doers ha<g ref="char:EOLhyphen"/>ted, <hi>Zech.</hi> 11.8. <hi>John</hi> 3. In <hi>Page</hi> 5. of <hi>Tho. Hickes</hi> his Book, he ſayeth, that <hi>Robert Weſt</hi> in his Book <hi>Page</hi> 6. tells us that the Spirit which God breathed into <hi>Adam</hi> was not mans Spirit, but another, which he calls, <hi>The breath of our Noſtrils, the anointed Lord:</hi> That I have ſo written is true, the Cauſe why I did ſo was, becauſe <hi>Tho. Hickes</hi> affirmed, that the light in every man, that did convince them of ſin. Was mans Spirit not Chriſt; for ſaid he, whileſt Chriſt was figured out in Types, he was not actually in being, <hi>&amp;c.</hi> Upon this my ſpi<g ref="char:EOLhyphen"/>rit by the Teſtimony of Jeſus, which is the Spirit of Propheſie, who then manifeſted unto me his folly; but he gathering a Company on his ſide, over bore me by words, his Company alſo mocking and ſcoffing then at me, I patiently then bore it, and told him, that I ſhould oppoſe him in Print; but being perſecuted and impriſoned, forbearing my Teſtimony for the Truth and againſt deceit, had not the opportunity to Print it until the Year 1672. which was then perfor<g ref="char:EOLhyphen"/>med. For if I ſhould be ſilent to ſuch an affirmation (to wit) Firſt, that the Light within, which con<g ref="char:EOLhyphen"/>vinceth man of ſin, was mans ſpirit, I having know<g ref="char:EOLhyphen"/>ledge from the Lord, that that Spirit which convinceth of ſin was the Spirit of the Lord, ſhould have been unfaithful to my knowledge, and ſuffered the Lord, who is a Spirit to be robbed of his Glory; for the
+<pb n="10" facs="tcp:33420:6"/>glory of that work of convincing of ſin is the Lords, not mans ſpirit. Upon this I was neceſſitated to diſtinguiſh the ſpirit of man, from the Spirit of the Lord, <hi>&amp;c.</hi> But he ſayeth in his Book <hi>Page</hi> 5. that I have wretchedly and profanely perverted that Text, <hi>Lam.</hi> 4.20. Be<g ref="char:EOLhyphen"/>cauſe I teſtifie that the breath which God breathed in<g ref="char:EOLhyphen"/>to <hi>Adams</hi> noſtrils, by which <hi>Adam</hi> became a living Soul, was not mans Spirit, but another (to wit) the true light, the annointed of the Lord, of whom the Kings of <hi>Iſrael</hi> were but figures, <hi>&amp;c.</hi> In <hi>Page</hi> 17. of his Book, he ſayeth, I grant the Son of God is cal<g ref="char:EOLhyphen"/>led, <hi>The Word of God;</hi> if ſo, then he was before the World was made, and is not the Son of God, the an<g ref="char:EOLhyphen"/>nointed, <hi>&amp;c.</hi> And before that he affirmed, that the Word by which God made the World was not the Chriſt, neither was he actually in being whileſt he was figured out in Types; ſee how he contradicts himſelf. Mark, the Son of God is Chriſt the annoin<g ref="char:EOLhyphen"/>ted of the Lord, by <hi>him God made the World,</hi> Heb. 1.2. It's written, <hi>By the Word the Lord was the Heavens made, and all the Host of them by the breath of his mouth,</hi> Pſal. 37.6. Now hath not <hi>Tho. Hickes</hi> mani<g ref="char:EOLhyphen"/>feſted his ignorance, firſt, in affirming that the Word by which God made the world, was not the Chriſt; and now grants the Son of God is called the Word of God, as may appear by his Book <hi>Page</hi> 17. Again, he ſayeth in his Book <hi>Page</hi> 78. 'tis not denied but that Jeſus Chriſt as Mediator was in purpoſe and promiſe long before: neither do I, ſayeth he, queſtion the E<g ref="char:EOLhyphen"/>ternal Deity of that Word, which in time took fleſh, but though this is, and by me muſt be granted, yet I believe not, that the Word was then made fleſh, that Chriſt was actually made known as God in fleſh, ac<g ref="char:EOLhyphen"/>cording
+<pb n="11" facs="tcp:33420:6"/>to the Myſtery and intendment of thoſe Types; doth he not here again contradict himſelf? Firſt, he ſayeth, Jeſus Chriſt was purpoſe and pro<g ref="char:EOLhyphen"/>miſe, and then ſayeth, I do not queſtion of that Word which in time took fleſh; doth not this contradict his affirmation before noted, <hi>&amp;c.</hi> For
+<list>
+                  <item>firſt, he hath granted the Son of God is called the Word of God:</item>
+                  <item>Secondly, he hath granted the Eternal Deity of that Word in time took fleſh; all which tends to what I have contended for, and he oppoſed: True it is, whileſt the firſt Tabernacle was ſtanding, the way into the Holieſt was not manifeſt, <hi>Heb.</hi> 9.8. <hi>Tho. Hickes</hi> ſay<g ref="char:EOLhyphen"/>eth in his Book <hi>Page</hi> 52. ſpeaking of me, there was one of thy friends, ſayeth he, that pretended to per<g ref="char:EOLhyphen"/>fection, yet the ſame perſon I proved guilty of Blaſ<g ref="char:EOLhyphen"/>phemy, in ſaying the Kingdom of Heaven was in his Dog.</item>
+               </list>
+The ſame man ſayeth, he interpreted that Text <hi>Lam.</hi> 4.20. which intends a perſon to mean the Spirit of God in man, which he calleth the Annoyn<g ref="char:EOLhyphen"/>ted Lord; and are ſuch inſtants as theſe the Charact<g ref="char:EOLhyphen"/>er of a perfect man, <hi>&amp;c.</hi> I never ſaid to him that the Kingdom of Heaven was in my Dog, neither did he ever prove me guilty of Blaſphemy: indeed about 10 or 12 years paſt, he asked me, whether or no I did ſay ſo: I then replied, Anſwer me to my <hi>Question,</hi> and I will anſwer thee. My <hi>Queſtion</hi> was, Doth the Lord fill Heaven and Earth, yea or nay? ſaid he, I will not anſwer: Then ſaid I, neither will I anſwer thee. Doth not his denial to anſwer my <hi>Queſtion</hi> manifeſt, <hi>that fear had ſurprized the Hypocrite.</hi> Is this fairly done to publiſh in Print ten or twelve years after he asked me that <hi>Queſtion,</hi> that he proved me guilty of Blaſphemy, who then was afraid to an<g ref="char:EOLhyphen"/>ſwer
+<pb n="12" facs="tcp:33420:7"/>to my <hi>Question.</hi> It's written, <hi>He that hi<g ref="char:EOLhyphen"/>deth hatred with lying Lips, and he that uttereth a ſlan<g ref="char:EOLhyphen"/>der is a fool,</hi> Prov. 10.18. Touching that of <hi>Lam.</hi> 4.20. I have ſpoken of before. Hath not <hi>Tho. Hickes</hi> in his Book <hi>Page</hi> 52. perverted the Text <hi>Lam.</hi> 4.20. in ſaying which intends a perſon; What perſon was that which was the breath of the holy Prophets no<g ref="char:EOLhyphen"/>ſtrils? The Text ſayeth, alluding unto <hi>Gen.</hi> 2.7. as it's noted in the Margin of the Bible that the <hi>breath of our noſtrils, even the Annointed of the Lord, was ta<g ref="char:EOLhyphen"/>ken in their pits,</hi> &amp;c. Touching Perfection, Is be<g ref="char:EOLhyphen"/>lieving Perfection attainable on this ſide the Grave to be ſpoken againſt; then the preaching of God him<g ref="char:EOLhyphen"/>ſelf is to be ſpoken againſt: for he preached to <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> ſaying, <hi>Walk before me, and be thou perfect.</hi> A<g ref="char:EOLhyphen"/>gain, Chriſt taught his Diſciples, ſaying, <hi>Be ye perfect as your Father which is in Heaven is perfect.</hi> Again, the end of the Miniſtry is for the perfecting of the Saints, as Scripture witneſſeth, <hi>&amp;c.</hi> I am a witneſs for the Lord, that the Miniſtry which makes not the Comers thereunto perfect, and gives them the know<g ref="char:EOLhyphen"/>ledge of God on this ſide the Grave is a falſe Mini<g ref="char:EOLhyphen"/>ſtry, and the Miniſters thereof are deceivers, <hi>&amp;c.</hi> In <hi>Page</hi> 3. of <hi>Tho. Hickes</hi> his Book he ſayeth; Yea, that which thou calleſt light in thee, hath in many things miſguided thee. This his ſaying is his folly; for <hi>Job</hi> teſtifieth, ſpeaking of the light of the Lord, <hi>That by his light he walked through darkneſs.</hi> Job 29.3. To this agreeth the promiſe of Chriſt, <hi>He that followeth me,</hi> ſayeth Chriſt, <hi>ſhall not walk in darkneſs but ſhall have the light of life,</hi> John 8.12. I witneſs the ſame promiſe to me made good, amongſt the many thou<g ref="char:EOLhyphen"/>ſands of the Lords people this day. It's written, <hi>That
+<pb n="13" facs="tcp:33420:7"/>Job ſpake of the Lord the things that are right,</hi> Job 42.7. But now <hi>Tho. Hickes</hi> and his Confederates have ſpoken of the Light within, the things which are wrong, <hi>&amp;c.</hi> For if any man do or ſpeak the things that are wrong or falſe, he's not guided by the light within ſo to do, but by another ſpirit, <hi>&amp;c.</hi> There are three Spirits in man <hi>(viz.)</hi> the Spirit of God, which is the light, whoſe Name is called the Lord, as it's written, <hi>The Lord is that Spirit.:</hi> And mans ſpirit, which is the Candle: And the ſpirit of the Devil, which moves man, or tempteth man to ſin. Now either of theſe three Spirits may be followed, <hi>&amp;c.</hi> The fooliſh Prophets of Iſrael followed their own Spirits, and ſaw nothing, <hi>Ezek.</hi> 13.3. Now he that follow<g ref="char:EOLhyphen"/>eth his own ſpirit may ſay, that he is led by the light within, or ſpeaks by that light, as too many have done, not knowing what ſpirit they have followed, becauſe they thought there had been but two ſpirits in man (to wit) the Spirit of God, and the ſpirits of the Devil, <hi>&amp;c.</hi> Now if it ſhould be ſo, the Soul of man that being a Spirit muſt be of the ſubſtance of God, or of the ſubſtance of the Devil: I ſay again, if there be but two Spirits in man, the Soul of man be<g ref="char:EOLhyphen"/>ing a Spirit, muſt be God or of his Subſtance, which is blaſphemy ſo to ſay, or of the ſpirit of the Devil. Conſider of it: Therefore there is a neceſſity to know what mans ſpirit is; for that end I did di<g ref="char:EOLhyphen"/>ſtinguiſh in my Book, Intituled, <hi>Damnable Hereſie Di<g ref="char:EOLhyphen"/>ſcovered:</hi> The Spirit of man, which is the Candle, from the light within, which is, the Lord; and the ſpirit of the Devil from them both, &amp;c. By what's written may appear, that the light within may be ſi<g ref="char:EOLhyphen"/>lent, while men may follow other ſpirits, and that the
+<pb n="14" facs="tcp:33420:8"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght within, as it's taken heed unto and followed, guides out of darkneſs. <hi>Tho. Hickes</hi> ſayeth in his book <hi>Page</hi> 62. You ſpeak of no other Reſurrection, but of Chriſts dying and ariſing in you, <hi>&amp;c.</hi> Know all men, that I do believe, when the Soul of man is redeemed by the Lord from under the dominion of Death, the re<g ref="char:EOLhyphen"/>ſurrection is not finiſhed, nor when the body ſhall be delivered from the dominion of the man of the Earth, then the Reſurrection is not finiſhed; for in that ſtate man may marry and die. Now Chriſt ſayeth, <hi>The hour cometh that all that are in their graves ſhal hear the voice of the Son of God &amp; ſhall come forth, they that have done well to the reſurrection of life, and they that have done e<g ref="char:EOLhyphen"/>vil to the reſurrection of condemnation, then there ſhall be no more marrying, nor giving in marriage, nor dying any more,</hi> Luk. 30.25. Joh. 5.28. Hoſ. 13.14. 1 Cor. 15 54.</p>
+            <p>Again, it's written, <hi>Every man ſhall receive accord<g ref="char:EOLhyphen"/>ing as he hath done in the body, whether it be good or evil,</hi> &amp;c. Touching things noted in <hi>Tho. Hickes</hi> his <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook againſt the <hi>Quakers,</hi> as he calls them, they are of age to ſpeak for themſelves, <hi>&amp;c.</hi> Touching what I have written is to manifeſt his folly and falſhood, that he may not proceed any farther; and it was upon me, and in it I have peace with God, on whoſe ſide I have written, and on whoſe ſide I have been a Souldier a<g ref="char:EOLhyphen"/>bove theſe twenty years, although for it I have been impriſoned and troubled to many Aſſizes, but the Lord hath, as his promiſe is, delivered me: Glory be to him for ever and for evermore, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Written by me <hi>Robert Weſt,</hi>
+               </signed>
+               <date>About the 60th year of my Age, to be Printed in the Year 1673.</date>
+            </closer>
+            <pb facs="tcp:33420:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
